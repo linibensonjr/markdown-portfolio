@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Iniobong's profile picture](https://drive.google.com/file/d/1bNT0HAVxGRR2ufARKtt0-hYnwmhRtoju/view?usp=drivesdk)
